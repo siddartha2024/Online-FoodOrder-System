@@ -69,7 +69,7 @@ INSERT INTO `customer` (`username`, `fullname`, `email`, `contact`, `address`, `
 ('siddartha', 'SIDDARTHA', 'siddartha@gmail.com', '8688605348', 'plot no.11, J.K colony', 'deshineni'),
 ('vasundara', 'VASUNDARA', 'vasundara@gmail.com', '9014668549', 'plot no.22, yousufguda', 'deshineni'),
 ('raja rao', 'RAJA RAO', 'rajarao@gmail.com', '9849202990', 'plot no.18,Nerdemet', 'deshineni'),
-('kalpana', 'KALPANA', 'kalpana@gmail.com', '8328316371', 'plot no.18,Nerdemet', 'deshineni'),
+('kalpana', 'KALPANA', 'kalpana@gmail.com', '8328316371', 'plot no.18,Nerdemet', 'deshineni');
 
 
 -- --------------------------------------------------------
